@@ -26,3 +26,5 @@ This section is only for developers who want to modify the code using `web-ext` 
     npm start
     ```
     This will open a new Chrome instance with the extension loaded. Any changes you save will automatically reload the extension and the page.
+
+    Feel free to change the images or modify the code to your liking!
