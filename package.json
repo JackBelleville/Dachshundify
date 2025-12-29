@@ -1,0 +1,16 @@
+{
+  "name": "dachshundify",
+  "version": "1.0.0",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-ext run --target=chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "web-ext": "^9.2.0"
+  }
+}
